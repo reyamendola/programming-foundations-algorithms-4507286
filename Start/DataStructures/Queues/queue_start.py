@@ -1,6 +1,6 @@
 # Example file for Programming Foundations: Algorithms by Joe Marini
 # try out the Python queue functions
-
+from collections import deque
 
 # TODO: create a new empty deque object that will function as a queue
 
